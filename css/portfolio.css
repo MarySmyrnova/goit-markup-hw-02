@@ -3,6 +3,7 @@
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
 }
 
 .portfolio-subtitle {
@@ -10,6 +11,7 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .portfolio-text {
