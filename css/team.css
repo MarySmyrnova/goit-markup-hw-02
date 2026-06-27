@@ -1,12 +1,15 @@
-.team {
-    background-color: #f4f4fd;
-}
+
 
 .team-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
+}
+
+.team-item {
+    background-color: #ffffff;
 }
 
 .team-subtitle {
@@ -15,10 +18,5 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-}
-
-.team-text {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: center;
+    color: #2e2f42;
 }
